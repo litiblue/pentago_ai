@@ -1,0 +1,1 @@
+void StateToS (int state[6][6], __int64 &s1, __int64 &s2);
