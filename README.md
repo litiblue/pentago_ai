@@ -1,7 +1,7 @@
 # pentago_ai
 
 
-자세한 설명이 담긴 문서 : https://github.com/litiblue/pentago_ai/raw/master/docs/pentago_ai.pdf
+자세한 설명이 담긴 문서 : https://github.com/litiblue/pentago_ai/blob/master/docs/pentago_ai.pdf
 
 ![](https://github.com/litiblue/pentago_ai/raw/master/docs/images/slide01.png)
 ![](https://github.com/litiblue/pentago_ai/raw/master/docs/images/slide02.png)
